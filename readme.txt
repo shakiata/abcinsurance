@@ -1,5 +1,10 @@
 Readme
-This is a terraform test for a simple load balenced proof of concept azure deployment,
+This is a terraform test for a simple load balenced proof of concept azure deployment,  
+
+In Terminal from the Directlry run "terraform init"
+then run "terraform apply"
+this will build the azure asset
+
 
                         ┌───────────────────────┐
                         │                       │
